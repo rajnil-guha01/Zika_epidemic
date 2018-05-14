@@ -1,0 +1,12 @@
+Colombia	443745
+Puerto	44344
+Brazil	25763
+Ecuador	8175
+Nicaragua	4704
+Dominican	2447
+United	2000
+Guatemala	1578
+Panama	762
+Argentina	665
+Mexico	565
+El	472
