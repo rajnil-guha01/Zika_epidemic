@@ -1,0 +1,9 @@
+Colombia	1092477
+El	353528
+Puerto	139795
+Dominican	89339
+Brazil	26190
+Guatemala	8704
+Ecuador	3796
+Haiti	1066
+Nicaragua	386
