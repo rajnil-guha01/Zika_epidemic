@@ -1,3 +1,8 @@
+
+# This script reads each row from csv line and removes the opening and closing quotes from the 8th field.
+# Then it writes the modified rows back into another csv file.
+
+
 import csv
 
 
